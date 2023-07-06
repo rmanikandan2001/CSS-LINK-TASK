@@ -1,0 +1,35 @@
+a:visited{
+   color:red;
+}
+
+a:link{
+ color:white;
+}
+   
+a:hover{
+   color:pink;
+}   
+ 
+a:active{
+	  color:blue;
+}
+    
+
+a.visited{
+	text-decoration:none;
+}
+   
+ a.visited{
+	 background-color:red;
+ }
+ 
+a:link,a:visited{
+background-color:green;
+ color:black;
+border:3px solid red; 
+border:radius:12px;
+padding:20px 30px;
+text-decoration:none;
+text-align:center;
+}
+ 
